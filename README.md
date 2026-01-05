@@ -37,20 +37,18 @@
 <!-- Telegram -->
 <a href="https://t.me/glmv_dev" target="_blank">
   <img align="center"
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg"
-    height="30"
-    width="40"/>
-</a>
-
-
-
-  <!-- X (Twitter) -->
- <a href="https://x.com/glmvdev" target="_blank">
-  <img align="center"
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg"
+    src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg"
     height="30"
     width="40" />
 </a>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/glmvdev" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg"
+      alt="x"
+      height="30"
+      width="40" />
+  </a>
 
 </p>
 
